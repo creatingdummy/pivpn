@@ -15,7 +15,7 @@
 tmpLog=/tmp/pivpn-install.log
 instalLogLoc=/etc/pivpn/install.log
 
-pivpnGitUrl="https://github.com/pivpn/pivpn.git"
+pivpnGitUrl="https://github.com/thekillers123/pivpn.git"
 pivpnFilesDir="/etc/.pivpn"
 
 
